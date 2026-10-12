@@ -1,46 +1,52 @@
-# Awesome-Digital-Customer-Engagement
+# 🚀 Awesome Digital Customer Engagement
 
-## Top Digital Customer Engagement Ecosystem
+<div align="center">
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Digital-Customer-Engagement/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Customer-Engagement?style=flat-square&logo=github&color=gold" alt="Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Digital-Customer-Engagement/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Customer-Engagement?style=flat-square&logo=github&color=blue" alt="Forks" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Digital-Customer-Engagement/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Customer-Engagement?style=flat-square&color=rose" alt="Issues" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Digital-Customer-Engagement/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
+<br/><br/>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<img src="./assets/banner.svg" alt="Awesome Digital Customer Engagement Banner" width="100%" />
 
-*Focused on Cross-Channel Messaging, Real-Time Personalization & Lifecycle Engagement*  
+<p align="center">
+  <strong>Curated ecosystem of SaaS platforms, open-source software, customer journey builders, and messaging infrastructure.</strong><br/>
+  <em>Supercharge omnichannel marketing, behavior-triggered push notifications, SMS/RCS, conversational AI, in-app messaging, and customer data platforms (CDP).</em>
+</p>
 
-**Last updated: March 2026**
+</div>
 
+---
 
+## 📌 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Digital Customer Engagement**. These tools enable organizations to reach customers across email, SMS, push, WhatsApp, and in-app channels with behavior-triggered, personalized messaging — driving retention, conversion, and loyalty at scale.
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Frameworks for Building Custom Stacks](#️-frameworks-for-building-custom-stacks)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
+## 🌐 Sector Overview & Market Dynamics
 
-**Examples** include Salesforce Digital Engagement, Braze, Iterable, CleverTap, MoEngage, Airship, OneSignal, Customer.io, Klaviyo, and Pushwoosh (the category leaders).
+The global **digital customer engagement solutions market** is estimated at approximately **$25 billion to over $40 billion** and is projected to expand at a compound annual growth rate (CAGR) of **9% to 11% through 2030**. This growth is propelled by enterprise investments in cloud infrastructures, omnichannel cross-device orchestration, and generative AI agent deployments (such as automated customer decisioning and conversational bots).
 
+The sector exhibits a **moderately fragmented** competitive landscape:
+- **Top Enterprise Tier**: Megavendors such as Salesforce, Adobe, and Oracle capture significant enterprise market share through unified CRM suites and cloud service offerings.
+- **Dynamic Best-of-Breed & Modern Contenders**: Far from being a winner-take-all ecosystem, high-growth contenders (e.g., Braze, Klaviyo, Iterable, CleverTap, MoEngage) maintain distinct differentiation through developer-first agility, mobile SDK maturity, and hyper-personalized real-time messaging.
+- **Open-Source & Self-Hosted Wave**: Data privacy mandates (GDPR, HIPAA, CCPA) and volume-based pricing have driven a burgeoning wave of open-source engines and headless infrastructure (Novu, Chatwoot, Dittofeed, Mautic, Laudspeaker), enabling engineering teams to maintain total sovereignty over their customer event pipelines.
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom journey orchestration, and open messaging infrastructure — ideal for growth engineers, product teams, and developers seeking transparent, vendor-independent customer engagement.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global digital customer engagement solutions market is estimated at approximately **$25 billion to over $40 billion** and is projected to compound at a 9%–11% CAGR through 2030, accelerated by omnichannel orchestration, cloud migration, and generative AI agent deployments. The sector exhibits a **moderately fragmented** structure: while mega-vendors like Salesforce capture considerable market share with broad CRM/cloud ecosystems, it is not a winner-take-all market—agile and specialized multi-channel platforms (such as Braze, Klaviyo, Iterable, and CleverTap) alongside hundreds of niche and open-source tools maintain substantial market share and competitive differentiation.
-
-## SaaS/Hosted Platforms
+## 🏢 SaaS / Hosted Platforms
 
 | Platform | Company Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,110 +61,83 @@ The global digital customer engagement solutions market is estimated at approxim
 | **[OneSignal](https://onesignal.com/)** | **~$20M–$50M Revenue** (Series C funded) | $19 / month (Growth plan base fee + usage) | Free forever plan: Up to 1,000 mobile MAUs, 10,000 web push subscribers, and 10,000 emails/month | Push notification and customer engagement platform. Supports mobile push, web push, in-app messages, email, SMS, and Live Activities with multi-step Journeys. |
 | **[Pushwoosh](https://www.pushwoosh.com/)** | **~$10M–$13M Revenue** (Bootstrapped/Private) | $7 / 1,000 MAU (Push Only) or $13 / 1,000 MAU (Omnichannel) | Free forever plan: Up to 1,000 MAUs, unlimited push & in-app impressions, and 20,000 email sends/month | Customer engagement platform with WooCommerce integration, Customer Journeys, web push, abandoned cart recovery, and order event tracking. |
 
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Dittofeed](https://github.com/dittofeed/dittofeed)**  
-
-  Developer-focused open-source customer engagement platform (MIT) positioned as an Iterable and Customer.io alternative. Features drag-and-drop journey builder, segmentation interface, web-based template editor, git-based workflows, first-in-class testing SDK, OpenTelemetry integration, and self-hosting. Sends email, SMS, push, WhatsApp, and Slack. Y Combinator-backed with large cost savings for power users avoiding volume-based pricing .
-
-
-
-- **[Mautic](https://github.com/mautic/mautic)**  
-
-  The world's first open-source marketing automation platform (GPL-3.0). 100% community-owned with no commercial entity behind it. Features multi-channel campaigns (email, SMS, social, web tracking), intelligent automation, unlimited segmentation, A/B testing, and full data sovereignty. Supports GDPR compliance with unlimited contacts and no license costs.
-
-
-
-- **[Laudspeaker](https://github.com/laudspeaker/laudspeaker)**  
-
-  Open-source customer journey automation and Braze/Iterable alternative (AGPL-3.0). Features visual no-code journey builder, event-triggered cross-channel messages (email, SMS, Firebase push), time delays, user segments, PostgreSQL/CSV imports, and PostHog integration.
-
-
-
-- **[Helio](https://github.com/achref-soua/helio)**  
-
-  Open-source, AI-native growth platform (AGPL-3.0) unifying CDP, segmentation, and cross-channel journeys on Temporal workflow engine. Features natural-language segments, predictive scoring, brand-voice content generation, and MCP server for AI agents. Self-hostable via Docker, Helm, or cloud-init.
-
-
-
-- **[MessageBirds](https://github.com/Mullassery/MessageBirds)**  
-
-  Open-source, event-driven Customer Data & Engagement Platform built with Rust + TypeScript. Features identity resolution, real-time audiences, durable journeys, and Web/iOS/Android SDKs. Includes edge ingestion gateway and audience activation via PyReverseETL.
-
-
-
-- **[OpenClix](https://github.com/OpenClix/openclix)**  
-
-  Open-source mobile app retention and engagement automation platform (MIT). Config-driven engagement rules with on-device logic orientation. Keeps more logic in the app codebase rather than sending every decision through a vendor. Built with TypeScript, Next.js, Dart, Kotlin, Swift.
-
-
-
-- **[Fusion](https://github.com/fusion-hq/fusion)**  
-
-  Open-source all-in-one user analytics and engagement platform similar to CleverTap & Sprig. Features low-code Mixpanel-like analytics, built-in live-chat, push notifications, email/micro-surveys, and real-time engagement triggers.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Apache Unomi](https://github.com/apache/unomi)** — Open-source customer data platform (Apache-2.0) with profile management and segmentation.
-
-- **[RudderStack](https://github.com/rudderlabs/rudder-server)** — Open-source customer data pipeline (AGPL-3.0) for collecting and routing events.
-
-- **[Jitsu](https://github.com/jitsucom/jitsu)** — Open-source data collection and CDP (MIT) for event streaming.
-
-- **[Metarank](https://github.com/metarank/metarank)** — Open-source personalization and ranking engine (Apache-2.0).
-
-- **[n8n](https://github.com/n8n-io/n8n)** — Workflow automation with messaging channel nodes for custom orchestration.
-
-- Community **PostHog** plugins for event-triggered messaging.
-
-
-
-**Frameworks for building custom systems**: Combine **Dittofeed** or **Laudspeaker** as the journey orchestration engine with **Helio** for AI-native segmentation, **MessageBirds** for identity resolution and audience management, **Mautic** for broader marketing automation, and **PostgreSQL + ClickHouse** for event storage — creating a fully self-hosted, enterprise-grade digital customer engagement platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Customer engagement platforms handling personal data must comply with data protection regulations (GDPR, CCPA, CAN-SPAM, etc.).
-
-- Self-hosted open-source solutions require proper security hardening, email deliverability configuration, and ongoing maintenance for production reliability.
-
-
+---
+
+## 💻 Open-Source GitHub Projects
+
+Curated open-source repositories for self-hosted customer engagement, workflow orchestration, in-app communication, and messaging infrastructure. Sorted in descending order by GitHub stars.
+
+| Repository | GitHub Stars | License | Primary Focus |
+| :--- | :--- | :--- | :--- |
+| **[n8n](https://github.com/n8n-io/n8n)** | [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Sustainable | Workflow automation engine with extensive integrations for triggering customer lifecycle messaging, webhooks, and transactional flows. |
+| **[Novu](https://github.com/novuhq/novu)** | [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers) | Apache-2.0 | Open-source notification infrastructure and centralized API for managing transactional and engagement notifications across push, email, SMS, and in-app feeds. |
+| **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | AGPL-3.0 | Omnichannel customer communication & engagement suite (alternative to Intercom and Zendesk) connecting live chat, WhatsApp, Twitter, and email. |
+| **[Listmonk](https://github.com/knadh/listmonk)** | [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers) | AGPL-3.0 | High-performance, self-hosted newsletter and customer mailing list manager packed into a single Go binary with multi-million message throughput. |
+| **[Formbricks](https://github.com/formbricks/formbricks)** | [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) | AGPL-3.0 | Privacy-first micro-survey and in-app customer feedback platform for triggering contextual surveys at key points in the user journey. |
+| **[Mautic](https://github.com/mautic/mautic)** | [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers) | GPL-3.0 | Fully featured open-source marketing automation suite supporting email, SMS, social channels, complex lead nurturing workflows, and segmentation. |
+| **[Papercups](https://github.com/papercups-io/papercups)** | [![GitHub stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers) | MIT | Open-source live customer messaging platform with React chat widgets, Slack sync, and conversational customer support integrations. |
+| **[Jitsu](https://github.com/jitsucom/jitsu)** | [![GitHub stars](https://img.shields.io/github/stars/jitsucom/jitsu?style=social&color=white)](https://github.com/jitsucom/jitsu/stargazers) | MIT | Open-source event collection engine and data pipeline capturing behavioral customer actions and streaming them to destinations and data warehouses. |
+| **[RudderStack](https://github.com/rudderlabs/rudder-server)** | [![GitHub stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers) | AGPL-3.0 | Warehouse-first Customer Data Platform (CDP) core pipeline for collecting, routing, and activating behavioral customer event streams. |
+| **[Dittofeed](https://github.com/dittofeed/dittofeed)** | [![GitHub stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers) | MIT | Developer-friendly engagement engine (Customer.io alternative) with visual journey builders, segmentation, Git-backed workflows, and multi-channel delivery. |
+| **[Laudspeaker](https://github.com/laudspeaker/laudspeaker)** | [![GitHub stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers) | AGPL-3.0 | Open-source journey orchestration engine (Braze/Iterable alternative) triggering real-time cross-channel messages (email, SMS, push) from user event streams. |
+| **[Metarank](https://github.com/metarank/metarank)** | [![GitHub stars](https://img.shields.io/github/stars/metarank/metarank?style=social&color=white)](https://github.com/metarank/metarank/stargazers) | Apache-2.0 | Real-time personalization and machine-learning ranking engine providing personalized recommendation rails and search boosts for customer journeys. |
+| **[Apache Unomi](https://github.com/apache/unomi)** | [![GitHub stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers) | Apache-2.0 | Reference Customer Data Platform (OASIS CDP specification) providing unified profile management, behavioral rule engines, and privacy compliance. |
+| **[Fusion](https://github.com/fusion-hq/fusion)** | [![GitHub stars](https://img.shields.io/github/stars/fusion-hq/fusion?style=social&color=white)](https://github.com/fusion-hq/fusion/stargazers) | Apache-2.0 | All-in-one product analytics and user engagement platform combining event tracking, user flows, live chat, and automated targeted notifications. |
+| **[OpenClix](https://github.com/OpenClix/openclix)** | [![GitHub stars](https://img.shields.io/github/stars/OpenClix/openclix)](https://github.com/OpenClix/openclix/stargazers) | MIT | Config-driven on-device mobile app retention engine keeping evaluation logic inside app codebases across iOS (Swift), Android (Kotlin), Flutter, and React Native. |
+| **[Helio](https://github.com/achref-soua/helio)** | [![GitHub stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers) | AGPL-3.0 | AI-native customer growth platform built on Temporal workflow engine, unifying predictive segmentation, LLM brand voice generation, and cross-channel journeys. |
+| **[MessageBirds](https://github.com/Mullassery/MessageBirds)** | [![GitHub stars](https://img.shields.io/github/stars/Mullassery/MessageBirds?style=social&color=white)](https://github.com/Mullassery/MessageBirds/stargazers) | MIT | Event-driven customer data and engagement framework written in Rust & TypeScript featuring durable customer journeys, identity resolution, and edge ingestion. |
 
 ---
 
+## 🛠️ Frameworks for Building Custom Stacks
 
+For growth engineering teams seeking complete data sovereignty and avoiding escalating volume fees:
+- **Orchestration & Journeys**: Deploy **[Dittofeed](https://github.com/dittofeed/dittofeed)** or **[Laudspeaker](https://github.com/laudspeaker/laudspeaker)** as your primary visual journey engine.
+- **Notification Routing**: Route transactional and engagement alerts across email, push, SMS, and in-app feeds via **[Novu](https://github.com/novuhq/novu)**.
+- **Conversational Support & Live Chat**: Integrate **[Chatwoot](https://github.com/chatwoot/chatwoot)** or **[Papercups](https://github.com/papercups-io/papercups)** to bridge interactive messaging channels (WhatsApp, live chat, email).
+- **Data Ingestion & CDP Pipeline**: Ingest and route behavioral events through **[RudderStack](https://github.com/rudderlabs/rudder-server)** or **[Jitsu](https://github.com/jitsucom/jitsu)** connected to PostgreSQL and ClickHouse.
+- **AI-Native Segmentation & Recommendations**: Layer **[Helio](https://github.com/achref-soua/helio)** for predictive LLM segment generation and **[Metarank](https://github.com/metarank/metarank)** for personalized recommendations.
 
-**Made for growth teams, product marketers, CRM engineers, and developers building transparent customer engagement solutions.**  
+---
 
-Let's make digital customer engagement more open, data-driven, and efficient.
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Digital-Customer-Engagement&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Digital-Customer-Engagement&type=date&legend=top-left)
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly encouraged! Help us keep this directory accurate, up-to-date, and comprehensive:
+
+1. 🍴 **Fork the repo** to your GitHub account.
+2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-platform`).
+3. 📝 **Add or update entries** in `README.md` (keep descriptions concise, objective, and include official links, pricing, or star badges).
+4. 🚀 **Commit your changes** (`git commit -m "feat: add platform xyz"`).
+5. 📬 **Open a Pull Request** with a brief summary of what you've added or changed.
+
+⭐ **If you find this repository valuable, please consider giving it a star!**
+
+---
+
+## 💖 Support
+
+Thank you for exploring and supporting this curated catalog of digital customer engagement software! Building and maintaining quality developer-centric resources takes continuous research and care.
+
+If you find this project useful for your engineering, marketing, or product stack:
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** new tools or updates.
+- 📢 **Share it** on LinkedIn, X/Twitter, or Reddit.
+- ☕ **Buy me a coffee / Become a sponsor**: If you would like to support ongoing development and curated open-source research, consider supporting via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚖️ Disclaimer
+
+- This list is **community-curated** for educational and architectural evaluation purposes — inclusion does not imply official endorsement.
+- Digital engagement platforms processing user information must comply with applicable privacy laws (including GDPR, CCPA, and CAN-SPAM).
+- Organizations self-hosting open-source customer communication platforms should ensure proper TLS encryption, secret management, deliverability configurations (SPF, DKIM, DMARC), and routine infrastructure maintenance.
+
+<div align="center">
+  <sub>Made with ❤️ for growth engineers, CRM specialists, product managers, and developers building the future of customer engagement.</sub>
+</div>
