@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global digital customer engagement solutions market is estimated at approximately **$25 billion to over $40 billion** and is projected to compound at a 9%–11% CAGR through 2030, accelerated by omnichannel orchestration, cloud migration, and generative AI agent deployments. The sector exhibits a **moderately fragmented** structure: while mega-vendors like Salesforce capture considerable market share with broad CRM/cloud ecosystems, it is not a winner-take-all market—agile and specialized multi-channel platforms (such as Braze, Klaviyo, Iterable, and CleverTap) alongside hundreds of niche and open-source tools maintain substantial market share and competitive differentiation.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Digital Engagement](https://www.salesforce.com/service/digital-customer-engagement-platform/)**  
-
-  Service Cloud add-on connecting businesses to customers across SMS, WhatsApp, Facebook Messenger, Apple Messages for Business, LINE, and web chat. Features AI agents (Agentforce) deployed across channels, mass SMS messaging, and real-time dashboards tracking resolution rates and sentiment .
-
-
-
-- **[Braze](https://www.braze.com/)**  
-
-  Customer engagement platform for cross-channel messaging with Canvas journey builder. Named a Leader in the 2025 Gartner Magic Quadrant for Multichannel Marketing Hubs for the third consecutive year. Features BrazeAI Decisioning Studio, SQL Query Builder with AI assistant, and connected content .
-
-
-
-- **[Iterable](https://iterable.com/)**  
-
-  Cross-channel growth marketing platform with Studio drag-and-drop campaign builder. Features journey logic, webhooks for BI/Zapier/Twilio integration, team collaboration notes, and real-time editing. Fall 2026 launch adds native Salesforce sync, RCS with branded senders, and live catalog data in journeys .
-
-
-
-- **[CleverTap](https://clevertap.com/)**  
-
-  Customer engagement and retention platform combining app analytics with marketing. Core Plan features behavioral analytics (Funnels, Cohorts, Flows, Pivots), 13 messaging channels, Journeys visual campaign builder, and segmentation by actions or profile properties. Add-ons include WhatsApp Direct and Advanced Analytics .
-
-
-
-- **[MoEngage](https://www.moengage.com/)**  
-
-  Insights-led customer engagement platform. Features Merlin AI for send-time optimization and predictive segments, cross-channel campaigns (Email, Push, SMS/MMS/RCS, WhatsApp, In-App), Flows with conditional logic and A/B splits, and Decisioning for automated offer selection .
-
-
-
-- **[Airship](https://www.airship.com/)**  
-
-  Customer engagement platform specializing in push notifications, in-app messaging, SMS/RCS, Email, and Mobile Wallet passes. Features unified analytics across channels, predictive analytics, A/B testing, and web notifications for browser-based re-engagement .
-
-
-
-- **[OneSignal](https://onesignal.com/)**  
-
-  Push notification and customer engagement platform with generous free tier. Supports mobile push, web push, in-app messages, email, SMS/MMS/RCS, and Live Activities. Features Journeys multi-step campaigns, Liquid personalization, and API for transactional messages .
-
-
-
-- **[Customer.io](https://customer.io/)**  
-
-  Behavioral messaging platform for product-led growth. Features event-triggered automations (attribute/segment, event, form submission, important date, geofence, object updated), multi-channel messaging (push, in-app, SMS, email, webhooks), and mobile SDKs for iOS, Android, React Native, and Flutter .
-
-
-
-- **[Klaviyo](https://www.klaviyo.com/)**  
-
-  E-commerce marketing automation platform with built-in CDP. Features omnichannel flows across email, SMS, RCS, mobile push, WhatsApp, and social, with 350+ integrations, 160+ email templates, 80+ pre-built flows, and Klaviyo AI for segment and flow creation .
-
-
-
-- **[Pushwoosh](https://www.pushwoosh.com/)**  
-
-  Customer engagement platform with WooCommerce integration. Features Customer Journeys, web push, abandoned cart recovery with signed restore links, order event tracking (created/updated/canceled), and marketing consent enforcement. Historical sync via WP-CLI for existing customers and orders .
+| Platform | Company Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Digital Engagement](https://www.salesforce.com/service/digital-customer-engagement-platform/)** | **~$250B+ Market Cap** (~$37.9B FY25 Revenue) | $75 / user / month (Service Cloud add-on, billed annually) | 30-day free trial (Service Cloud trial environment) | Service Cloud add-on connecting businesses across SMS, WhatsApp, Messenger, Apple Messages, LINE, and web chat. Features Agentforce AI agents, mass SMS, and real-time resolution dashboards. |
+| **[Klaviyo](https://www.klaviyo.com/)** | **~$5B–$10B Market Cap** (~$1.23B FY25 Revenue) | $20 / month (Email plan starting up to 500 active profiles) | Free forever plan: Up to 250 active profiles, 500 monthly email sends, and 150 SMS/MMS credits | E-commerce marketing automation platform with built-in CDP. Features omnichannel flows across email, SMS/MMS, mobile push, WhatsApp, 350+ integrations, and Klaviyo AI. |
+| **[Braze](https://www.braze.com/)** | **~$3.2B Market Cap** (~$593M FY25 Revenue) | ~$2,500 / month (Entry-level contracts typically start at ~$30,000/yr for ~50k MAUs) | 14-day free trial (interactive sandbox and feature tour; no permanent free tier) | Customer engagement platform for cross-channel messaging with Canvas journey builder. Features BrazeAI Decisioning Studio, SQL Query Builder with AI assistant, and connected content. |
+| **[Iterable](https://iterable.com/)** | **~$2.0B Valuation** (~$240M ARR) | ~$3,000 / month (Standard entry Growth tiers start at ~$36,000/yr for ~10k–50k MAUs) | No permanent free plan; customized 14-day sales-assisted demo/PoC sandbox upon request | Cross-channel growth marketing platform with Studio drag-and-drop campaign builder, journey logic, webhooks for BI/Zapier/Twilio integration, and real-time editing. |
+| **[MoEngage](https://www.moengage.com/)** | **~$850M–$900M Valuation** (~$100M+ ARR) | $750 / month (Starter/Growth plan for up to 10k–25k MAUs) | No permanent free plan; 14-day customized Proof-of-Concept (PoC) / guided trial via sales demo | Insights-led customer engagement platform. Features Merlin AI for send-time optimization and predictive segments, cross-channel campaigns, Flows with conditional logic, and automated offer decisioning. |
+| **[CleverTap](https://clevertap.com/)** | **~$775M Valuation** (~$100M+ ARR) | $75 / month (Core Essentials plan starting at up to 5,000 MAUs) | 30-day free trial (Core plan features up to 5,000 MAUs and 600 CleverAI tokens) | Customer engagement and retention platform combining app analytics with marketing. Features funnels, cohorts, 13 messaging channels, and Journeys visual builder. |
+| **[Customer.io](https://customer.io/)** | **~$690M Valuation** (~$100M ARR) | $100 / month (Essentials plan starting at up to 5,000 profiles & 1M emails/mo) | 14-day free trial (capped at 50 test email sends/day; no permanent free tier) | Behavioral messaging platform for product-led growth. Features event-triggered automations across push, in-app, SMS, email, and webhooks with mobile SDKs. |
+| **[Airship](https://www.airship.com/)** | **~$100M+ Total Funding** (~$55M–$60M Revenue) | ~$1,000 / month (Essentials entry tier starting at ~$12,000/yr based on MAUs) | No permanent free plan; pilot / Proof-of-Concept (PoC) trial period via sales evaluation | Enterprise mobile customer engagement specializing in push notifications, in-app messaging, SMS/RCS, email, and Mobile Wallet passes. |
+| **[OneSignal](https://onesignal.com/)** | **~$20M–$50M Revenue** (Series C funded) | $19 / month (Growth plan base fee + usage) | Free forever plan: Up to 1,000 mobile MAUs, 10,000 web push subscribers, and 10,000 emails/month | Push notification and customer engagement platform. Supports mobile push, web push, in-app messages, email, SMS, and Live Activities with multi-step Journeys. |
+| **[Pushwoosh](https://www.pushwoosh.com/)** | **~$10M–$13M Revenue** (Bootstrapped/Private) | $7 / 1,000 MAU (Push Only) or $13 / 1,000 MAU (Omnichannel) | Free forever plan: Up to 1,000 MAUs, unlimited push & in-app impressions, and 20,000 email sends/month | Customer engagement platform with WooCommerce integration, Customer Journeys, web push, abandoned cart recovery, and order event tracking. |
 
 
 
